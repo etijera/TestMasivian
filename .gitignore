@@ -11,6 +11,7 @@
 
 # Visual Studio 2019 cache/options directory
 .vs/
+*.cache
 
 
 # MSTest test Results
