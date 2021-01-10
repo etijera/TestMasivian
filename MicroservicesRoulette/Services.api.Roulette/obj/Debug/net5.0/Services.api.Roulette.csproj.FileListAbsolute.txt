@@ -48,7 +48,6 @@ F:\Erick\Masivian\Repositorio\TestMasivian\MicroservicesRoulette\Services.api.Ro
 F:\Erick\Masivian\Repositorio\TestMasivian\MicroservicesRoulette\Services.api.Roulette\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
 F:\Erick\Masivian\Repositorio\TestMasivian\MicroservicesRoulette\Services.api.Roulette\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
 F:\Erick\Masivian\Repositorio\TestMasivian\MicroservicesRoulette\Services.api.Roulette\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
-F:\Erick\Masivian\Repositorio\TestMasivian\MicroservicesRoulette\Services.api.Roulette\obj\Debug\net5.0\Services.api.Roulette.csprojAssemblyReference.cache
 F:\Erick\Masivian\Repositorio\TestMasivian\MicroservicesRoulette\Services.api.Roulette\obj\Debug\net5.0\Services.api.Roulette.GeneratedMSBuildEditorConfig.editorconfig
 F:\Erick\Masivian\Repositorio\TestMasivian\MicroservicesRoulette\Services.api.Roulette\obj\Debug\net5.0\Services.api.Roulette.AssemblyInfoInputs.cache
 F:\Erick\Masivian\Repositorio\TestMasivian\MicroservicesRoulette\Services.api.Roulette\obj\Debug\net5.0\Services.api.Roulette.AssemblyInfo.cs
