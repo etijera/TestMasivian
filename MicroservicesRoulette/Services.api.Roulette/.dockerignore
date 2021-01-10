@@ -1,0 +1,12 @@
+
+Dockerfile
+Dockerfile*
+.dockerignore
+*/bin
+*/obj
+
+[b|B]in
+[O|o]bj
+
+bin/
+obj/
