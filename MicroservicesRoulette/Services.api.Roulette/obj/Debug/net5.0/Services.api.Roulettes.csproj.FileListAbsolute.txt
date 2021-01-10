@@ -1,0 +1,6 @@
+F:\Erick\Masivian\ProyectoRuleta\MicroservicesRoulette\Services.api.Roulette\obj\Debug\net5.0\Services.api.Roulettes.csprojAssemblyReference.cache
+F:\Erick\Masivian\ProyectoRuleta\MicroservicesRoulette\Services.api.Roulette\obj\Debug\net5.0\Services.api.Roulettes.GeneratedMSBuildEditorConfig.editorconfig
+F:\Erick\Masivian\ProyectoRuleta\MicroservicesRoulette\Services.api.Roulette\obj\Debug\net5.0\Services.api.Roulettes.AssemblyInfoInputs.cache
+F:\Erick\Masivian\ProyectoRuleta\MicroservicesRoulette\Services.api.Roulette\obj\Debug\net5.0\Services.api.Roulettes.AssemblyInfo.cs
+F:\Erick\Masivian\ProyectoRuleta\MicroservicesRoulette\Services.api.Roulette\obj\Debug\net5.0\Services.api.Roulettes.csproj.CoreCompileInputs.cache
+F:\Erick\Masivian\ProyectoRuleta\MicroservicesRoulette\Services.api.Roulette\obj\Debug\net5.0\Services.api.Roulettes.MvcApplicationPartsAssemblyInfo.cache
